@@ -60,10 +60,10 @@ export default async function Page() {
             <p>All rights reserved.</p>
           </div>
           <div>
-            <p>Made by- Mohit Kumar</p>
+            <p>Made by- Harsh Mishra</p>
           </div>
           <div className="flex justify-between space-x-6">
-            <a href="https://github.com/Mohit-Kumar-3114" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/Harshmishra001" target="_blank" rel="noopener noreferrer">
               <svg
                 height="32"
                 viewBox="0 0 72 72"
@@ -82,7 +82,7 @@ export default async function Page() {
                 </g>
               </svg>
             </a>
-            <a  href="https://www.linkedin.com/in/mohit-kumar-79866a264" target="_blank" rel="noopener noreferrer">
+            <a  href="https://www.linkedin.com/in/harsh-mishra-4597a3254" target="_blank" rel="noopener noreferrer">
               <svg
                 enableBackground="new 0 0 32 32"
                 height="32px"
