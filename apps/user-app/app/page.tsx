@@ -96,7 +96,7 @@ export default async function Page() {
                 </g>
               </svg>
             </a>
-            <a  href="https://www.linkedin.com/in/harsh-mishra-4597a3254" >
+            <a  href="https://www.linkedin.com/in/harsh-mishra001/" >
               <svg
                 enableBackground="new 0 0 32 32"
                 height="32px"
