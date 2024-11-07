@@ -6,9 +6,8 @@
     "dev": "turbo dev",
     "lint": "turbo lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
-    "db:generate":"cd packages/db && npx prisma generate cd ../..",
+    "db:generate": "cd packages/db && npx prisma generate cd ../..",
     "start-user-app": "npm run dev && cd ../.."
-    
   },
   "devDependencies": {
     "@repo/eslint-config": "*",
@@ -23,5 +22,8 @@
   "workspaces": [
     "apps/*",
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "tailwind": "^4.0.0"
+  }
 }
